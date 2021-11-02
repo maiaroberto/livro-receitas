@@ -2,3 +2,4 @@
 
 * Strogonoff de Frango
 * Pavê
+* Salada 
